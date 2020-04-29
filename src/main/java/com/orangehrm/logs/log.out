@@ -1,0 +1,310 @@
+2020-04-26 15:04:189 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:204 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (b6be814df0f59f1eeae23d39d4637fc5)] -> id: txtUsername]
+2020-04-26 15:04:382 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (b6be814df0f59f1eeae23d39d4637fc5)] -> id: txtPassword]
+2020-04-26 15:04:648 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:712 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (b6be814df0f59f1eeae23d39d4637fc5)] -> xpath: //a[@id='welcome']]
+2020-04-26 15:04:785 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:634 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (3530414920a5bc49e4485eba2d04ca98)] -> id: txtUsername]
+2020-04-26 15:04:816 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (3530414920a5bc49e4485eba2d04ca98)] -> id: txtPassword]
+2020-04-26 15:04:780 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (3530414920a5bc49e4485eba2d04ca98)] -> id: btnLogin]
+2020-04-26 15:04:828 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (3530414920a5bc49e4485eba2d04ca98)] -> id: spanMessage]
+2020-04-26 15:04:880 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:371 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (b8a165631de343eef9be6376d92721e4)] -> id: txtUsername]
+2020-04-26 15:04:559 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (b8a165631de343eef9be6376d92721e4)] -> id: txtPassword]
+2020-04-26 15:04:928 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:884 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (b8a165631de343eef9be6376d92721e4)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:20 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (b8a165631de343eef9be6376d92721e4)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:675 INFO  HomePage :55 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (b8a165631de343eef9be6376d92721e4)] -> id: searchBtn]
+2020-04-26 15:04:713 INFO  HomePage :59 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (b8a165631de343eef9be6376d92721e4)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 15:04:846 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:950 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (e05729a2e42669eae92c1cbf3fdd0ff2)] -> id: txtUsername]
+2020-04-26 15:04:151 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (e05729a2e42669eae92c1cbf3fdd0ff2)] -> id: txtPassword]
+2020-04-26 15:04:596 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:545 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (e05729a2e42669eae92c1cbf3fdd0ff2)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:695 INFO  HomePage :50 - Enter Employee Name :   Robert   Moore On Employee name Field [[ChromeDriver: chrome on WINDOWS (e05729a2e42669eae92c1cbf3fdd0ff2)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:328 INFO  HomePage :55 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (e05729a2e42669eae92c1cbf3fdd0ff2)] -> id: searchBtn]
+2020-04-26 15:04:361 INFO  HomePage :65 - Displaying No records Message : Proxy element for: DefaultElementLocator 'By.xpath: //td[contains(text(),'No Records Found')]'
+2020-04-26 15:04:992 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:199 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (921b864544462bd53b35013921e6588b)] -> id: txtUsername]
+2020-04-26 15:04:353 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (921b864544462bd53b35013921e6588b)] -> id: txtPassword]
+2020-04-26 15:04:725 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:777 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (921b864544462bd53b35013921e6588b)] -> xpath: //a[@id='welcome']]
+2020-04-26 15:04:917 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:909 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (5a4184918bc7fe3bb468cc66742993d7)] -> id: txtUsername]
+2020-04-26 15:04:154 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (5a4184918bc7fe3bb468cc66742993d7)] -> id: txtPassword]
+2020-04-26 15:04:167 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (5a4184918bc7fe3bb468cc66742993d7)] -> id: btnLogin]
+2020-04-26 15:04:214 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (5a4184918bc7fe3bb468cc66742993d7)] -> id: spanMessage]
+2020-04-26 15:04:404 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:911 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (01e179eb51d20b87bbde0ef809a7e386)] -> id: txtUsername]
+2020-04-26 15:04:127 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (01e179eb51d20b87bbde0ef809a7e386)] -> id: txtPassword]
+2020-04-26 15:04:544 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:468 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (01e179eb51d20b87bbde0ef809a7e386)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:615 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (01e179eb51d20b87bbde0ef809a7e386)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:256 INFO  HomePage :55 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (01e179eb51d20b87bbde0ef809a7e386)] -> id: searchBtn]
+2020-04-26 15:04:302 INFO  HomePage :59 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (01e179eb51d20b87bbde0ef809a7e386)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 15:04:448 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:441 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (a57d1041a24ed7a328ae426d8e52db5e)] -> id: txtUsername]
+2020-04-26 15:04:656 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (a57d1041a24ed7a328ae426d8e52db5e)] -> id: txtPassword]
+2020-04-26 15:04:61 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:42 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (a57d1041a24ed7a328ae426d8e52db5e)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:183 INFO  HomePage :50 - Enter Employee Name :  Jonathan Moore On Employee name Field [[ChromeDriver: chrome on WINDOWS (a57d1041a24ed7a328ae426d8e52db5e)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:924 INFO  HomePage :55 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (a57d1041a24ed7a328ae426d8e52db5e)] -> id: searchBtn]
+2020-04-26 15:04:22 INFO  HomePage :65 - Displaying No records Message : Proxy element for: DefaultElementLocator 'By.xpath: //td[contains(text(),'No Records Found')]'
+2020-04-26 15:04:876 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:562 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (38bb15b904953e3db9927f674245bfe3)] -> id: txtUsername]
+2020-04-26 15:04:736 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (38bb15b904953e3db9927f674245bfe3)] -> id: txtPassword]
+2020-04-26 15:04:381 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:424 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (38bb15b904953e3db9927f674245bfe3)] -> xpath: //a[@id='welcome']]
+2020-04-26 15:04:500 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:985 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (f96e343ec3cacd3c9ddef87cb9d35f1a)] -> id: txtUsername]
+2020-04-26 15:04:271 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (f96e343ec3cacd3c9ddef87cb9d35f1a)] -> id: txtPassword]
+2020-04-26 15:04:249 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (f96e343ec3cacd3c9ddef87cb9d35f1a)] -> id: btnLogin]
+2020-04-26 15:04:292 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (f96e343ec3cacd3c9ddef87cb9d35f1a)] -> id: spanMessage]
+2020-04-26 15:04:379 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:290 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (e7cd8dd9babb41a8e9e41b6f3591a1aa)] -> id: txtUsername]
+2020-04-26 15:04:520 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (e7cd8dd9babb41a8e9e41b6f3591a1aa)] -> id: txtPassword]
+2020-04-26 15:04:199 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:223 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (e7cd8dd9babb41a8e9e41b6f3591a1aa)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:441 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (e7cd8dd9babb41a8e9e41b6f3591a1aa)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:102 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (e7cd8dd9babb41a8e9e41b6f3591a1aa)] -> id: searchBtn]
+2020-04-26 15:04:142 INFO  HomePage :61 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (e7cd8dd9babb41a8e9e41b6f3591a1aa)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 15:04:238 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:824 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (0c69dc41d3652ec48c6e1a831fa2f81e)] -> id: txtUsername]
+2020-04-26 15:04:19 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (0c69dc41d3652ec48c6e1a831fa2f81e)] -> id: txtPassword]
+2020-04-26 15:04:720 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:667 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (0c69dc41d3652ec48c6e1a831fa2f81e)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:11 INFO  HomePage :50 - Enter Employee Name :  Jonathan Robertson On Employee name Field [[ChromeDriver: chrome on WINDOWS (0c69dc41d3652ec48c6e1a831fa2f81e)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:639 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (0c69dc41d3652ec48c6e1a831fa2f81e)] -> id: searchBtn]
+2020-04-26 15:04:772 INFO  HomePage :67 - Displaying No records Message : Proxy element for: DefaultElementLocator 'By.xpath: //td[contains(text(),'No Records Found')]'
+2020-04-26 15:04:132 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:145 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (68c7860595ca5e5c70770e7b38df17fb)] -> id: txtUsername]
+2020-04-26 15:04:305 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (68c7860595ca5e5c70770e7b38df17fb)] -> id: txtPassword]
+2020-04-26 15:04:599 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:642 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (68c7860595ca5e5c70770e7b38df17fb)] -> xpath: //a[@id='welcome']]
+2020-04-26 15:04:713 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:587 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (34a9762f8b8a3a49eab9806ade72f8b7)] -> id: txtUsername]
+2020-04-26 15:04:909 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (34a9762f8b8a3a49eab9806ade72f8b7)] -> id: txtPassword]
+2020-04-26 15:04:886 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (34a9762f8b8a3a49eab9806ade72f8b7)] -> id: btnLogin]
+2020-04-26 15:04:931 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (34a9762f8b8a3a49eab9806ade72f8b7)] -> id: spanMessage]
+2020-04-26 15:04:972 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:150 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (86b02efec6bd3449713ffff2bada044c)] -> id: txtUsername]
+2020-04-26 15:04:295 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (86b02efec6bd3449713ffff2bada044c)] -> id: txtPassword]
+2020-04-26 15:04:626 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:561 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (86b02efec6bd3449713ffff2bada044c)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:771 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (86b02efec6bd3449713ffff2bada044c)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:384 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (86b02efec6bd3449713ffff2bada044c)] -> id: searchBtn]
+2020-04-26 15:04:431 INFO  HomePage :61 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (86b02efec6bd3449713ffff2bada044c)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 15:04:472 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:914 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (0046915c1d3269d7f6a2fb110a32cf7d)] -> id: txtUsername]
+2020-04-26 15:04:226 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (0046915c1d3269d7f6a2fb110a32cf7d)] -> id: txtPassword]
+2020-04-26 15:04:605 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:517 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (0046915c1d3269d7f6a2fb110a32cf7d)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:927 INFO  HomePage :50 - Enter Employee Name :  Jonathan     Robertson    On Employee name Field [[ChromeDriver: chrome on WINDOWS (0046915c1d3269d7f6a2fb110a32cf7d)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:441 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (0046915c1d3269d7f6a2fb110a32cf7d)] -> id: searchBtn]
+2020-04-26 15:04:491 INFO  HomePage :67 - Displaying No records Message : [[ChromeDriver: chrome on WINDOWS (0046915c1d3269d7f6a2fb110a32cf7d)] -> xpath: //td[contains(text(),'No Records Found')]]
+2020-04-26 15:04:786 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:823 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (97091f4d30d5c33d8133a6495b0a1bd6)] -> id: txtUsername]
+2020-04-26 15:04:996 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (97091f4d30d5c33d8133a6495b0a1bd6)] -> id: txtPassword]
+2020-04-26 15:04:795 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:841 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (97091f4d30d5c33d8133a6495b0a1bd6)] -> xpath: //a[@id='welcome']]
+2020-04-26 15:04:918 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:484 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (dc9c82e2893601b6d662f36c2fbc08e8)] -> id: txtUsername]
+2020-04-26 15:04:717 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (dc9c82e2893601b6d662f36c2fbc08e8)] -> id: txtPassword]
+2020-04-26 15:04:732 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (dc9c82e2893601b6d662f36c2fbc08e8)] -> id: btnLogin]
+2020-04-26 15:04:775 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (dc9c82e2893601b6d662f36c2fbc08e8)] -> id: spanMessage]
+2020-04-26 15:04:868 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:517 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (6e16fb4386a6d099e8b7f3dbda912dc3)] -> id: txtUsername]
+2020-04-26 15:04:906 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (6e16fb4386a6d099e8b7f3dbda912dc3)] -> id: txtPassword]
+2020-04-26 15:04:792 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:902 INFO  HomePage :62 - Displaying Login Error Message : Proxy element for: DefaultElementLocator 'By.id: spanMessage'
+2020-04-26 15:04:365 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:132 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (98b57800749295525cd20c905ffd460e)] -> id: txtUsername]
+2020-04-26 15:04:284 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (98b57800749295525cd20c905ffd460e)] -> id: txtPassword]
+2020-04-26 15:04:867 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:732 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (98b57800749295525cd20c905ffd460e)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:972 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (98b57800749295525cd20c905ffd460e)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:607 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (98b57800749295525cd20c905ffd460e)] -> id: searchBtn]
+2020-04-26 15:04:656 INFO  HomePage :61 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (98b57800749295525cd20c905ffd460e)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 15:04:529 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:893 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (11083c002269383da0da8cbb29afaa0b)] -> id: txtUsername]
+2020-04-26 15:04:92 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (11083c002269383da0da8cbb29afaa0b)] -> id: txtPassword]
+2020-04-26 15:04:774 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:720 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (11083c002269383da0da8cbb29afaa0b)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:970 INFO  HomePage :50 - Enter Employee Name :  Jonathan     Robertson    On Employee name Field [[ChromeDriver: chrome on WINDOWS (11083c002269383da0da8cbb29afaa0b)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:664 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (11083c002269383da0da8cbb29afaa0b)] -> id: searchBtn]
+2020-04-26 15:04:896 INFO  HomePage :67 - Displaying No records Message : Proxy element for: DefaultElementLocator 'By.xpath: //td[contains(text(),'No Records Found')]'
+2020-04-26 15:04:902 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:898 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (5aa7bfd2bf4f4f8ae2ee949f9b9e8db0)] -> id: txtUsername]
+2020-04-26 15:04:72 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (5aa7bfd2bf4f4f8ae2ee949f9b9e8db0)] -> id: txtPassword]
+2020-04-26 15:04:463 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:514 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (5aa7bfd2bf4f4f8ae2ee949f9b9e8db0)] -> xpath: //a[@id='welcome']]
+2020-04-26 15:04:562 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:871 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (f45fa6bd4e780d7a2a4e1b813c8146f9)] -> id: txtUsername]
+2020-04-26 15:04:87 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (f45fa6bd4e780d7a2a4e1b813c8146f9)] -> id: txtPassword]
+2020-04-26 15:04:29 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (f45fa6bd4e780d7a2a4e1b813c8146f9)] -> id: btnLogin]
+2020-04-26 15:04:75 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (f45fa6bd4e780d7a2a4e1b813c8146f9)] -> id: spanMessage]
+2020-04-26 15:04:483 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:461 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (5496d5dc6efba4e02a0a6bcb20277165)] -> id: txtUsername]
+2020-04-26 15:04:673 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (5496d5dc6efba4e02a0a6bcb20277165)] -> id: txtPassword]
+2020-04-26 15:04:960 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:92 INFO  HomePage :62 - Displaying Login Error Message : Proxy element for: DefaultElementLocator 'By.id: spanMessage'
+2020-04-26 15:04:588 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:97 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (99e00eb219ebbbf84916e05ef11b780a)] -> id: txtUsername]
+2020-04-26 15:04:490 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (99e00eb219ebbbf84916e05ef11b780a)] -> id: txtPassword]
+2020-04-26 15:04:755 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:832 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (99e00eb219ebbbf84916e05ef11b780a)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:206 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (99e00eb219ebbbf84916e05ef11b780a)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:837 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (99e00eb219ebbbf84916e05ef11b780a)] -> id: searchBtn]
+2020-04-26 15:04:948 INFO  HomePage :61 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (99e00eb219ebbbf84916e05ef11b780a)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 15:04:954 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:689 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (22e0c186c425544b4ab2235aca02cb35)] -> id: txtUsername]
+2020-04-26 15:04:889 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (22e0c186c425544b4ab2235aca02cb35)] -> id: txtPassword]
+2020-04-26 15:04:384 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:414 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (22e0c186c425544b4ab2235aca02cb35)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:858 INFO  HomePage :50 - Enter Employee Name :  Govind Maharaj Prabhudeva On Employee name Field [[ChromeDriver: chrome on WINDOWS (22e0c186c425544b4ab2235aca02cb35)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:556 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (22e0c186c425544b4ab2235aca02cb35)] -> id: searchBtn]
+2020-04-26 15:04:639 INFO  HomePage :67 - Displaying No records Message : [[ChromeDriver: chrome on WINDOWS (22e0c186c425544b4ab2235aca02cb35)] -> xpath: //td[contains(text(),'No Records Found')]]
+2020-04-26 15:04:973 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:684 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (f5e97d12ed0e9fd651fa5458f3892875)] -> id: txtUsername]
+2020-04-26 15:04:889 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (f5e97d12ed0e9fd651fa5458f3892875)] -> id: txtPassword]
+2020-04-26 15:04:261 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:307 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (f5e97d12ed0e9fd651fa5458f3892875)] -> xpath: //a[@id='welcome']]
+2020-04-26 15:04:334 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:411 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (33b7f40c8cfe40f9b7e0a9c0e6d79d28)] -> id: txtUsername]
+2020-04-26 15:04:662 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (33b7f40c8cfe40f9b7e0a9c0e6d79d28)] -> id: txtPassword]
+2020-04-26 15:04:821 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (33b7f40c8cfe40f9b7e0a9c0e6d79d28)] -> id: btnLogin]
+2020-04-26 15:04:866 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (33b7f40c8cfe40f9b7e0a9c0e6d79d28)] -> id: spanMessage]
+2020-04-26 15:04:762 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:92 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (39588d6dd559bc5c18486796c6e3e811)] -> id: txtUsername]
+2020-04-26 15:04:347 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (39588d6dd559bc5c18486796c6e3e811)] -> id: txtPassword]
+2020-04-26 15:04:810 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:909 INFO  HomePage :62 - Displaying Login Error Message : Proxy element for: DefaultElementLocator 'By.id: spanMessage'
+2020-04-26 15:04:333 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:645 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (d1f0351de2227e125b9cc7f14a0eee18)] -> id: txtUsername]
+2020-04-26 15:04:994 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (d1f0351de2227e125b9cc7f14a0eee18)] -> id: txtPassword]
+2020-04-26 15:04:493 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:448 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (d1f0351de2227e125b9cc7f14a0eee18)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:663 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (d1f0351de2227e125b9cc7f14a0eee18)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:420 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (d1f0351de2227e125b9cc7f14a0eee18)] -> id: searchBtn]
+2020-04-26 15:04:490 INFO  HomePage :61 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (d1f0351de2227e125b9cc7f14a0eee18)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 15:04:415 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 15:04:93 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (1d293b49a4c7a6da348446ba1c03bb5c)] -> id: txtUsername]
+2020-04-26 15:04:312 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (1d293b49a4c7a6da348446ba1c03bb5c)] -> id: txtPassword]
+2020-04-26 15:04:29 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 15:04:62 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (1d293b49a4c7a6da348446ba1c03bb5c)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 15:04:625 INFO  HomePage :50 - Enter Employee Name :  Govind Maharaj Prabhudeva On Employee name Field [[ChromeDriver: chrome on WINDOWS (1d293b49a4c7a6da348446ba1c03bb5c)] -> id: empsearch_employee_name_empName]
+2020-04-26 15:04:261 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (1d293b49a4c7a6da348446ba1c03bb5c)] -> id: searchBtn]
+2020-04-26 15:04:304 INFO  HomePage :67 - Displaying No records Message : [[ChromeDriver: chrome on WINDOWS (1d293b49a4c7a6da348446ba1c03bb5c)] -> xpath: //td[contains(text(),'No Records Found')]]
+2020-04-26 19:04:448 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:923 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:512 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:446 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:59 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:240 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:398 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:294 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:228 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (8b7b436648149cfd2b7530e3679fb6a0)] -> id: txtUsername]
+2020-04-26 19:04:454 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (8b7b436648149cfd2b7530e3679fb6a0)] -> id: txtPassword]
+2020-04-26 19:04:825 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 19:04:906 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (8b7b436648149cfd2b7530e3679fb6a0)] -> xpath: //a[@id='welcome']]
+2020-04-26 19:04:524 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:88 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (f9efd3b4a0a14f317591245a7373af56)] -> id: txtUsername]
+2020-04-26 19:04:380 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (f9efd3b4a0a14f317591245a7373af56)] -> id: txtPassword]
+2020-04-26 19:04:502 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (f9efd3b4a0a14f317591245a7373af56)] -> id: btnLogin]
+2020-04-26 19:04:548 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (f9efd3b4a0a14f317591245a7373af56)] -> id: spanMessage]
+2020-04-26 19:04:238 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:151 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (f2a1f06285d04f81f650ee61bcef6bfd)] -> id: txtUsername]
+2020-04-26 19:04:563 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (f2a1f06285d04f81f650ee61bcef6bfd)] -> id: txtPassword]
+2020-04-26 19:04:05 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 19:04:75 INFO  HomePage :62 - Displaying Login Error Message : Proxy element for: DefaultElementLocator 'By.id: spanMessage'
+2020-04-26 19:04:762 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:660 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (3ed25974f349595638a55f9c47bfc086)] -> id: txtUsername]
+2020-04-26 19:04:58 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (3ed25974f349595638a55f9c47bfc086)] -> id: txtPassword]
+2020-04-26 19:04:654 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 19:04:191 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (3ed25974f349595638a55f9c47bfc086)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 19:04:813 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (3ed25974f349595638a55f9c47bfc086)] -> id: empsearch_employee_name_empName]
+2020-04-26 19:04:821 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (3ed25974f349595638a55f9c47bfc086)] -> id: searchBtn]
+2020-04-26 19:04:891 INFO  HomePage :61 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (3ed25974f349595638a55f9c47bfc086)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 19:04:641 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 19:04:377 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (920713ca1aa88b1e519b947ac83c4e56)] -> id: txtUsername]
+2020-04-26 19:04:865 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (920713ca1aa88b1e519b947ac83c4e56)] -> id: txtPassword]
+2020-04-26 19:04:999 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 19:04:630 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (920713ca1aa88b1e519b947ac83c4e56)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 19:04:176 INFO  HomePage :50 - Enter Employee Name :  Govind Maharaj Prabhudeva On Employee name Field [[ChromeDriver: chrome on WINDOWS (920713ca1aa88b1e519b947ac83c4e56)] -> id: empsearch_employee_name_empName]
+2020-04-26 19:04:899 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (920713ca1aa88b1e519b947ac83c4e56)] -> id: searchBtn]
+2020-04-26 19:04:959 INFO  HomePage :67 - Displaying No records Message : [[ChromeDriver: chrome on WINDOWS (920713ca1aa88b1e519b947ac83c4e56)] -> xpath: //td[contains(text(),'No Records Found')]]
+2020-04-26 22:04:81 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 22:04:48 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (fff13628ce10c4b9a0728bc15e556f7a)] -> id: txtUsername]
+2020-04-26 22:04:275 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (fff13628ce10c4b9a0728bc15e556f7a)] -> id: txtPassword]
+2020-04-26 22:04:826 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 22:04:888 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (fff13628ce10c4b9a0728bc15e556f7a)] -> xpath: //a[@id='welcome']]
+2020-04-26 22:04:19 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 22:04:288 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (3ee1588cac0cf3c96347ff7804e1b3ed)] -> id: txtUsername]
+2020-04-26 22:04:643 INFO  HomePage :51 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (3ee1588cac0cf3c96347ff7804e1b3ed)] -> id: txtPassword]
+2020-04-26 22:04:854 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (3ee1588cac0cf3c96347ff7804e1b3ed)] -> id: btnLogin]
+2020-04-26 22:04:918 INFO  HomePage :62 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (3ee1588cac0cf3c96347ff7804e1b3ed)] -> id: spanMessage]
+2020-04-26 22:04:613 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 22:04:386 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (eaf500a1f584375a150a1ec4858034ee)] -> id: txtUsername]
+2020-04-26 22:04:685 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (eaf500a1f584375a150a1ec4858034ee)] -> id: txtPassword]
+2020-04-26 22:04:377 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 22:04:601 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (eaf500a1f584375a150a1ec4858034ee)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 22:04:37 INFO  HomePage :50 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (eaf500a1f584375a150a1ec4858034ee)] -> id: empsearch_employee_name_empName]
+2020-04-26 22:04:835 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (eaf500a1f584375a150a1ec4858034ee)] -> id: searchBtn]
+2020-04-26 22:04:909 INFO  HomePage :61 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (eaf500a1f584375a150a1ec4858034ee)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-26 22:04:133 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-26 22:04:433 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (6bd0f5b33df083d88caefa495c461488)] -> id: txtUsername]
+2020-04-26 22:04:796 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (6bd0f5b33df083d88caefa495c461488)] -> id: txtPassword]
+2020-04-26 22:04:266 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-26 22:04:475 INFO  HomePage :41 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (6bd0f5b33df083d88caefa495c461488)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-26 22:04:142 INFO  HomePage :50 - Enter Employee Name :  Govind Maharaj Prabhudeva On Employee name Field [[ChromeDriver: chrome on WINDOWS (6bd0f5b33df083d88caefa495c461488)] -> id: empsearch_employee_name_empName]
+2020-04-26 22:04:888 INFO  HomePage :56 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (6bd0f5b33df083d88caefa495c461488)] -> id: searchBtn]
+2020-04-26 22:04:942 INFO  HomePage :67 - Displaying No records Message : [[ChromeDriver: chrome on WINDOWS (6bd0f5b33df083d88caefa495c461488)] -> xpath: //td[contains(text(),'No Records Found')]]
+2020-04-28 10:04:226 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 10:04:750 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (c7f9ecd85661394fdfe90f6319e7ce67)] -> id: txtUsername]
+2020-04-28 10:04:944 INFO  HomePage :48 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (c7f9ecd85661394fdfe90f6319e7ce67)] -> id: txtPassword]
+2020-04-28 10:04:533 INFO  HomePage :54 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-28 10:04:589 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (c7f9ecd85661394fdfe90f6319e7ce67)] -> xpath: //a[@id='welcome']]
+2020-04-28 10:04:650 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 10:04:411 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (145721b33ea8ff118cc1b388bad138c3)] -> id: txtUsername]
+2020-04-28 10:04:634 INFO  HomePage :48 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (145721b33ea8ff118cc1b388bad138c3)] -> id: txtPassword]
+2020-04-28 10:04:814 INFO  HomePage :54 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (145721b33ea8ff118cc1b388bad138c3)] -> id: btnLogin]
+2020-04-28 10:04:874 INFO  HomePage :59 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (145721b33ea8ff118cc1b388bad138c3)] -> id: spanMessage]
+2020-04-28 10:04:191 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 10:04:69 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (50ec9ec355dab8f0d4e9bd1d29a1afbd)] -> id: txtUsername]
+2020-04-28 10:04:347 INFO  HomePage :48 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (50ec9ec355dab8f0d4e9bd1d29a1afbd)] -> id: txtPassword]
+2020-04-28 10:04:818 INFO  HomePage :54 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-28 10:04:923 INFO  HomePage :39 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (50ec9ec355dab8f0d4e9bd1d29a1afbd)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-28 10:04:372 INFO  HomePage :48 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (50ec9ec355dab8f0d4e9bd1d29a1afbd)] -> id: empsearch_employee_name_empName]
+2020-04-28 10:04:284 INFO  HomePage :54 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (50ec9ec355dab8f0d4e9bd1d29a1afbd)] -> id: searchBtn]
+2020-04-28 10:04:340 INFO  HomePage :59 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (50ec9ec355dab8f0d4e9bd1d29a1afbd)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-28 10:04:230 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 10:04:339 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (fe0e2df04f73fd78fd0dd18fbb721874)] -> id: txtUsername]
+2020-04-28 10:04:545 INFO  HomePage :48 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (fe0e2df04f73fd78fd0dd18fbb721874)] -> id: txtPassword]
+2020-04-28 10:04:231 INFO  HomePage :54 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-28 10:04:392 INFO  HomePage :39 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (fe0e2df04f73fd78fd0dd18fbb721874)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-28 10:04:943 INFO  HomePage :48 - Enter Employee Name :  Arvind Gajraj Prabhudeva On Employee name Field [[ChromeDriver: chrome on WINDOWS (fe0e2df04f73fd78fd0dd18fbb721874)] -> id: empsearch_employee_name_empName]
+2020-04-28 10:04:683 INFO  HomePage :54 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (fe0e2df04f73fd78fd0dd18fbb721874)] -> id: searchBtn]
+2020-04-28 10:04:728 INFO  HomePage :65 - Displaying No records Message : [[ChromeDriver: chrome on WINDOWS (fe0e2df04f73fd78fd0dd18fbb721874)] -> xpath: //td[contains(text(),'No Records Found')]]
+2020-04-28 17:04:660 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:481 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (47b727b5ada2d3658f9a2024ad221ce7)] -> id: txtUsername]
+2020-04-28 17:04:878 INFO  HomePage :48 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (47b727b5ada2d3658f9a2024ad221ce7)] -> id: txtPassword]
+2020-04-28 17:04:284 INFO  HomePage :54 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-28 17:04:341 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (47b727b5ada2d3658f9a2024ad221ce7)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:284 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:450 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (36db0420706743cfe49bd010698522a6)] -> id: txtUsername]
+2020-04-28 17:04:895 INFO  HomePage :48 - Entering Password : admin1236789 [[ChromeDriver: chrome on WINDOWS (36db0420706743cfe49bd010698522a6)] -> id: txtPassword]
+2020-04-28 17:04:939 INFO  HomePage :54 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (36db0420706743cfe49bd010698522a6)] -> id: btnLogin]
+2020-04-28 17:04:999 INFO  HomePage :59 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (36db0420706743cfe49bd010698522a6)] -> id: spanMessage]
+2020-04-28 17:04:856 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:441 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (589c59a071d1f103029101251a81f9c9)] -> id: txtUsername]
+2020-04-28 17:04:703 INFO  HomePage :48 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (589c59a071d1f103029101251a81f9c9)] -> id: txtPassword]
+2020-04-28 17:04:39 INFO  HomePage :54 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-28 17:04:246 INFO  HomePage :39 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (589c59a071d1f103029101251a81f9c9)] -> xpath: //b[contains(text(),'PIM')]]
+2020-04-28 17:04:666 INFO  HomePage :48 - Enter Employee Name :  Fiona Grace On Employee name Field [[ChromeDriver: chrome on WINDOWS (589c59a071d1f103029101251a81f9c9)] -> id: empsearch_employee_name_empName]
+2020-04-28 17:04:417 INFO  HomePage :54 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (589c59a071d1f103029101251a81f9c9)] -> id: searchBtn]
+2020-04-28 17:04:480 INFO  HomePage :59 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (589c59a071d1f103029101251a81f9c9)] -> xpath: //a[contains(text(),'Fiona')]]
+2020-04-28 17:04:274 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:372 INFO  HomePage :42 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (8ff5b0efd40c57f0cf90b77d2e383b2c)] -> id: txtUsername]
+2020-04-28 17:04:50 INFO  HomePage :48 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (8ff5b0efd40c57f0cf90b77d2e383b2c)] -> id: txtPassword]
+2020-04-28 17:04:82 INFO  HomePage :54 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2020-04-28 17:04:746 INFO  HomePage :39 - Clicking on PIM Link : [[ChromeDriver: chrome on WINDOWS (8ff5b0efd40c57f0cf90b77d2e383b2c)] -> xpath: //b[contains(text(),'PIM')]]
